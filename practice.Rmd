@@ -46,4 +46,10 @@ The same mean is defined in Equation \@ref(eq:mean).
 Please refer to Figure \@ref(fig:pressure)
 
 
+#Insert URL
+
+```{r, echo = FALSE}
+knitr::include_url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLndCNwLnsMqgZYJJL1Ndg751IGCRqW-KJ42rEjByHT0_OiaMU")
+
+```
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
